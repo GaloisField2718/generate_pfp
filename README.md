@@ -12,7 +12,7 @@ python3 generate_pfp.py
 
 ## Output
 
-The outputs are stored into `output` folder.
+The outputs are stored into `outputs` folder.
 
 ## Example
 
