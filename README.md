@@ -16,8 +16,8 @@ The outputs are stored into `output` folder.
 
 ## Example
 
-![Example](output/pfp_0.png)
-![Example](output/pfp_1.png)
+![Example](outputs/pfp_0.png)
+![Example](outputs/pfp_1.png)
 
 ## TODO
 
